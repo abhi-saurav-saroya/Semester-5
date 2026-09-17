@@ -21,11 +21,11 @@ The following table contains the Python programs included in this directory. Cli
 
 | No. | Experiment / Program | Source Code                      |
 | --: | -------------------- | -------------------------------- |
-|   1 | Experiment 1         | [1.py](./QuickSort.java)         |
-|   2 | Experiment 2         | [2.py](./BubbleSort.java)        |
-|   3 | Experiment 3         | [3.py](./Primenumbers.java)      |
-|   4 | Experiment 4         | [4.py](./Palindrome.java)        |
-|   5 | Experiment 5         | [5.py](./Calculator.java)        |
+|   1 | Experiment 1         | [QuickSort.java](./QuickSort.java)         |
+|   2 | Experiment 2         | [BubbleSort.java](./BubbleSort.java)        |
+|   3 | Experiment 3         | [PrimeNumbers.java](./Primenumbers.java)      |
+|   4 | Experiment 4         | [Palindrome.java](./Palindrome.java)        |
+|   5 | Experiment 5         | [Calculator.java](./Calculator.java)        |
 
 ## Running the Programs
 
