@@ -17,19 +17,19 @@
 
 ## Practical Programs
 
-The following table contains the Python programs included in this directory. Click on a filename to open its source code.
+The following table contains the Java programs included in this directory. Click on a filename to open its source code.
 
 | No. | Experiment / Program | Source Code                      |
 | --: | -------------------- | -------------------------------- |
-|   1 | Experiment 1         | [QuickSort.java](./QuickSort.java)         |
+|   1 | Experiment 1         | [QuickSort.java](./QuickSort.java)          |
 |   2 | Experiment 2         | [BubbleSort.java](./BubbleSort.java)        |
-|   3 | Experiment 3         | [PrimeNumbers.java](./Primenumbers.java)      |
+|   3 | Experiment 3         | [PrimeNumbers.java](./Primenumbers.java)    |
 |   4 | Experiment 4         | [Palindrome.java](./Palindrome.java)        |
 |   5 | Experiment 5         | [Calculator.java](./Calculator.java)        |
 
 ## Running the Programs
 
-Make sure JDK is installed on your system.
+Make sure **JDK** is installed on your system.
 
 Compile any program from this directory using:
 
@@ -37,17 +37,17 @@ Compile any program from this directory using:
 javac QuickSort.java
 ```
 
-Run the compiled program:
+Run the compiled program using:
 ```bash
 java QuickSort
 ```
 
-The program name can be replaced with the name of the file you want to execute.
+Replace `QuickSort` with the name of the Java class you want to execute.
 
 ## Repository Structure
 
 ```text
-Programming in Python Lab/
+Java Programming Lab/
 ├── README.md
 ├── QuickSort.java
 ├── Calculator.java
