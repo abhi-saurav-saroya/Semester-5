@@ -17,7 +17,7 @@ This repository serves as a personal academic archive containing laboratory work
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-IKGPTU-2563eb?style=for-the-badge" alt="IKGPTU"/>
-  <img src="https://img.shields.io/badge/University-DAVIET-2563hb?style=for-the-badge" alt="DAVIET"/>
+  <img src="https://img.shields.io/badge/College-DAVIET-2563hb?style=for-the-badge" alt="DAVIET"/>
   <img src="https://img.shields.io/badge/Degree-B.Tech-16a34a?style=for-the-badge" alt="Bachelor of Technology"/>
 </p>
 
