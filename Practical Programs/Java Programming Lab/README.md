@@ -21,11 +21,12 @@ The following table contains the Java programs included in this directory. Click
 
 | No. | Experiment / Program | Source Code                      |
 | --: | -------------------- | -------------------------------- |
-|   1 | Experiment 1         | [QuickSort.java](./QuickSort.java)          |
-|   2 | Experiment 2         | [BubbleSort.java](./BubbleSort.java)        |
-|   3 | Experiment 3         | [PrimeNumbers.java](./Primenumbers.java)    |
-|   4 | Experiment 4         | [Palindrome.java](./Palindrome.java)        |
-|   5 | Experiment 5         | [Calculator.java](./Calculator.java)        |
+|   1 | Experiment 1         | [QuickSort.java](./QuickSort.java)             |
+|   2 | Experiment 2         | [BubbleSort.java](./BubbleSort.java)           |
+|   3 | Experiment 3         | [PrimeNumbers.java](./Primenumbers.java)       |
+|   4 | Experiment 4         | [Palindrome.java](./Palindrome.java)           |
+|   5 | Experiment 5         | [Calculator.java](./Calculator.java)           |
+|   5 | Experiment 6         | [IntegerDivision.java](./IntegerDivision.java) |
 
 ## Running the Programs
 
@@ -51,7 +52,7 @@ Java Programming Lab/
 ├── README.md
 ├── QuickSort.java
 ├── Calculator.java
-├── Palindrom.java
+├── Palindrome.java
 ├── ...
 └── PrimeNumbers.java
 ```
