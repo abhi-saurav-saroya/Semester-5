@@ -21,13 +21,21 @@ The following table contains the R programs included in this directory. Click on
 
 | No. | Experiment / Program | Source Code                      |
 | --: | -------------------- | -------------------------------- |
-|   1 | Experiment 1         | [1.R](./1.R)  |
-|   2 | Experiment 2         | [2.R](./2.R)  |
-|   3 | Experiment 3         | [3.R](./3.R)  |
-|   4 | Experiment 4         | [4.R](./4.R)  |
-|   5 | Experiment 5         | [5.R](./5.R)  |
-|   6 | Experiment 6         | [6.R](./6.R)  |
-|   7 | Experiment 7         | [7.R](./7.R)  |
+|   1 | Experiment 1         | [1.R](./1.R)       |
+|   2 | Experiment 2         | [2.R](./2.R)       |
+|   3 | Experiment 3         | [3.R](./3.R)       |
+|   4 | Experiment 4         | [4.R](./4.R)       |
+|   5 | Experiment 5         | [5.R](./5.R)       |
+|   6 | Experiment 6         | [6.R](./6.R)       |
+|   7 | Experiment 7         | [7.R](./7.R)       |
+|   8 | Experiment 8         | [8.R](./8.R)       |
+|   9 | Experiment 9         | [9.R](./9.R)       |
+|  10 | Experiment 10        | [10.R](./10.R)     |
+|  11 | Experiment 11        | [11.R](./11.R)     |
+|12.1 | Experiment 12.1      | [12.1.R](./12.1.R) |
+|12.2 | Experiment 12.2      | [12.2.R](./12.2.R) |
+|12.3 | Experiment 12.3      | [12.3.R](./12.3.R) |
+|12.4 | Experiment 12.4      | [12.4.R](./12.4.R) |
 
 ## Running the Programs
 
