@@ -41,6 +41,7 @@ The following table contains the Python programs included in this directory. Cli
 |  18 | Experiment 18        | [18.py](./18.py)                 |
 |  19 | Experiment 19        | [19.py](./19.py)                 |
 |  20 | Experiment 20        | [20.py](./20.py)                 |
+|  20 | Experiment 21        | [21.ipynb](./21.ipynb)           |
 
 ## Additional Files
 
@@ -49,6 +50,7 @@ The following table contains the Python programs included in this directory. Cli
 | [calculator.py](./calculator.py) | Additional calculator implementation - Module for Experiment 15   |
 | [fibonacci.py](./fibonacci.py)   | Fibonacci-series implementation - Module for Experiment 14         |
 | [source.txt](./source.txt)       | Supporting source or reference material - For Experiments 16 and 17 |
+| [steps_calories.csv](./steps_calories.csv)       | Two column short dataset - For Experiment 21 |
 
 ## Running the Programs
 
