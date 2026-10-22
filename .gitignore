@@ -2,3 +2,4 @@ __pycache__/
 *.class
 Practical Files/*/Cover Page.pdf
 *.docx
+.ipynb_checkpoints/
