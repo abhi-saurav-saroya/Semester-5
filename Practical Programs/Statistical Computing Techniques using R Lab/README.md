@@ -36,6 +36,10 @@ The following table contains the R programs included in this directory. Click on
 |12.2 | Experiment 12.2      | [12.2.R](./12.2.R) |
 |12.3 | Experiment 12.3      | [12.3.R](./12.3.R) |
 |12.4 | Experiment 12.4      | [12.4.R](./12.4.R) |
+|  13 | Experiment 13        | [13.R](./13.R)     |
+|  14 | Experiment 14        | [14.R](./14.R)     |
+|  15 | Experiment 15        | [15.R](./15.R)     |
+|  16 | Experiment 16        | [16.R](./16.R)     |
 
 ## Running the Programs
 
