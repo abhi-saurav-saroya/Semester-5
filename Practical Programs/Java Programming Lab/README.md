@@ -19,14 +19,17 @@
 
 The following table contains the Java programs included in this directory. Click on a filename to open its source code.
 
-| No. | Experiment / Program | Source Code                      |
-| --: | -------------------- | -------------------------------- |
-|   1 | Experiment 1         | [QuickSort.java](./QuickSort.java)             |
-|   2 | Experiment 2         | [BubbleSort.java](./BubbleSort.java)           |
-|   3 | Experiment 3         | [PrimeNumbers.java](./Primenumbers.java)       |
-|   4 | Experiment 4         | [Palindrome.java](./Palindrome.java)           |
-|   5 | Experiment 5         | [Calculator.java](./Calculator.java)           |
-|   5 | Experiment 6         | [IntegerDivision.java](./IntegerDivision.java) |
+| No. | Experiment / Program | Source Code                                              |
+| --: | -------------------- | -------------------------------------------------------- |
+|   1 | Experiment 1         | [QuickSort.java](./QuickSort.java)                       |
+|   2 | Experiment 2         | [BubbleSort.java](./BubbleSort.java)                     |
+|   3 | Experiment 3         | [PrimeNumbers.java](./Primenumbers.java)                 |
+|   4 | Experiment 4         | [Palindrome.java](./Palindrome.java)                     |
+|   5 | Experiment 5         | [Calculator.java](./Calculator.java)                     |
+|   6 | Experiment 6         | [IntegerDivision.java](./IntegerDivision.java)           |
+|   7 | Experiment 7         | [DoublyLinkedList.java](./DoublyLinkedList.java)         |
+| 8.a | Experiment 8.a       | [MessageApplet.java](./MessageApplet.java)               |
+| 8.b | Experiment 8.b       | [FactorialCalculator.java](./FactorialCalculator.java)   |
 
 ## Running the Programs
 
