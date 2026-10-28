@@ -1,0 +1,7 @@
+Roll No,Name,Course
+101,Aman,B.Tech
+102,Abhi,B.Tech
+103,Rahul,BCA
+104,Mahi,MBA
+105,Shweta,BBA
+106,Kartik,B.Tech
