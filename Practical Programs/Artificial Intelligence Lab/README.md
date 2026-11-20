@@ -35,6 +35,7 @@ The practical programs and their corresponding source code files are included in
 | 6.1 | DBDFS (DLDFS) | [6.1.py](./6.1.py) |
 | 6.2 | DFID | [6.2.py](./6.2.py) |
 | 7 | Minimax | [7.py](./7.py) |
+| 8 | Bayesian Network | [8.py](./8.py) |
 
 ## Running the Programs
 
@@ -62,7 +63,7 @@ Artificial Intelligence Lab/
 ├── 2.1.py
 ├── 2.2.py
 ├── ...
-└── 7.py
+└── 8.py
 ```
 ---
 
